@@ -1,0 +1,8 @@
+.DS_Store
+
+### PHPStorm IDE
+.idea
+
+### Node
+node_modules
+.npm

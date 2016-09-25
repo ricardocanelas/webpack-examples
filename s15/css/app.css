@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Open-Sans';
+
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+body{
+    font-family: 'Open-Sans';
+    margin-top:50px;
+    background-color: #cceccc;
+}
+
+.bg_header_img{
+    background: url('../images/webpack_logo.png') -131px 1px no-repeat;
+    width: 150px;
+    height: 150px; 
+}
